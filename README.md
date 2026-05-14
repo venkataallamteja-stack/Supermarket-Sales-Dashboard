@@ -12,3 +12,4 @@ Interactive Tableau dashboard analyzing supermarket sales performance, customer 
 - Tableau
 - Data Visualization
 - Dashboard Design
+Project completed using Tableau.
