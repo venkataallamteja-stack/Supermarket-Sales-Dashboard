@@ -28,3 +28,6 @@ Project completed using Tableau.
 
 ## Dashboard Link
 Add your Tableau Public dashboard link here.
+## Dashboard Link
+
+https://public.tableau.com/app/profile/teja.surya2627/viz/Supermarket_Sales_Dashboard_17787580111130/SupermarketSalesDashboard?publish=yes
